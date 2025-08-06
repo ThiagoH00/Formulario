@@ -17,10 +17,6 @@ Este é um projeto desenvolvido em React.js que implementa um formulário dinâm
 - Feedback visual para campos inválidos
 - Organização modular (componentes e CSS separados)
 
-## 📷 Preview
-
-<img src="assets/formulario-preview.png" alt="Preview do formulário" width="600" />
-
 ## 🛠️ Como rodar o projeto
 
 ```bash
