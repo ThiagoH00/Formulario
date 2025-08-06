@@ -19,7 +19,7 @@ Este é um projeto desenvolvido em React.js que implementa um formulário dinâm
 
 ## 📷 Preview
 
-<img src="file:///C:/Users/Thiago%20H/Desktop/Exemplo%20do%20formulario.png" alt="Preview do formulário" />
+<img src="assets/formulario-preview.png" alt="Preview do formulário" width="600" />
 
 ## 🛠️ Como rodar o projeto
 
